@@ -1,0 +1,238 @@
+ECOMMERCE FEATURE AUDIT
+
+Project: Lapreh / Lapreh Creations ecommerce platform
+
+
+FUNCTIONS IT CURRENTLY HAS
+
+Customer and account functions
+- Customer registration
+- Customer login
+- JWT/token-based authentication
+- Customer and admin role separation
+- Customer profile page
+- Profile name update
+- Saved delivery addresses
+- Add address
+- Edit address
+- Delete address
+- Set default address
+- Logout
+
+Catalog and product functions
+- Product catalog page
+- Product detail page
+- Product categories
+- Category filter tabs
+- Product search by name, description, and category
+- Catalog pagination
+- Product image support
+- Product video support
+- Product price display
+- Original price and discount display
+- Stock display
+- Product code display
+- New arrivals route
+- Basic related/recommended product sections
+
+Cart functions
+- Add product to cart
+- Update cart quantity
+- Remove item from cart
+- Clear cart
+- Stock validation when adding/updating cart
+- Login required before cart checkout
+
+Wishlist functions
+- Add product to wishlist
+- Remove product from wishlist
+- Wishlist page
+- Move wishlist item to cart
+
+Checkout and payment functions
+- Checkout page
+- Delivery address form
+- Saved address selection during checkout
+- Cash on delivery payment method
+- Razorpay online payment method
+- Razorpay checkout script loading
+- Razorpay payment order creation
+- Razorpay payment verification
+- Cart clearing after successful order/payment
+
+Order functions
+- Order creation
+- Customer order history
+- Customer order detail page
+- Customer order tracking UI
+- Order status history
+- Customer order cancellation
+- Cancellation reason selection
+- Refund initiation for paid cancelled orders
+- Stock reduction after confirmed COD order
+- Stock reduction after verified online payment
+- Stock restoration on eligible cancellation
+
+Admin functions
+- Admin dashboard
+- Revenue metric
+- Orders metric
+- Customers metric
+- Products metric
+- Average order value
+- Sales performance chart
+- Order status breakdown
+- Recent orders table
+- Low-stock inventory list
+- Admin order detail dialog
+- Admin order status update
+- Admin order cancellation
+- Admin-only product API create/update/delete
+- Admin-only category API create/update/delete
+- Admin-only upload route
+
+Backend/API functions
+- Product APIs
+- Category APIs
+- Cart APIs
+- Wishlist APIs
+- Order APIs
+- Payment APIs
+- User profile/address APIs
+- Authentication APIs
+- Admin dashboard API
+- Health route
+- Error middleware
+- Protected routes
+- Admin-only middleware
+- Customer-only middleware
+
+UI/UX functions
+- Responsive React frontend
+- Layout/navigation
+- Toast notifications
+- Login-required modal prompt
+- Product preview modal
+- Cart count
+- Wishlist count
+- Server status indicator
+
+
+IMPORTANT ECOMMERCE FUNCTIONS IT DOES NOT HAVE
+
+High-priority missing functions
+- Product variants such as size, color, fabric, and SKU-level stock
+- Real product image upload and storage; current upload endpoint is only a placeholder
+- Admin UI for adding, editing, and deleting products
+- Admin UI for adding, editing, and deleting categories
+- Coupon/discount code system
+- Real courier/shipping integration
+- Tracking number and courier tracking link
+- Email, SMS, or WhatsApp notifications for order events
+- Password reset / forgot password
+- Razorpay webhook handling
+- Invoice generation and download
+- Return/exchange workflow
+- Product reviews and ratings
+
+Product/catalog missing functions
+- Price range filter
+- Sort by price
+- Sort by newest
+- Sort by popularity
+- Filter by size/color/material/availability
+- Multiple product image management
+- Bulk product import/export
+- Product tags
+- Product SEO metadata
+- Category pages with SEO metadata
+- Recently viewed products
+- More advanced personalized recommendations
+
+Inventory missing functions
+- SKU-level inventory
+- Inventory adjustment history
+- Low-stock email/admin alerts
+- Stock reservation timeout for pending online payments
+- Supplier/vendor tracking
+- Purchase/stock replenishment records
+
+Checkout/payment missing functions
+- Guest checkout
+- COD confirmation or OTP verification
+- Saved payment methods
+- Payment failure recovery beyond basic retry
+- Multiple payment gateways
+- Tax/GST calculation
+- GST invoice details
+- Shipping charge rules by location/weight/order value
+
+Order/shipping missing functions
+- Courier label generation
+- Shipment pickup scheduling
+- Delivery ETA calculation
+- Real-time shipment tracking
+- Partial order fulfillment
+- Partial cancellation
+- Partial refund
+- Return pickup scheduling
+- Exchange order creation
+
+Customer/account missing functions
+- Email verification
+- Phone number verification
+- Change password
+- Delete account
+- Customer support/contact tickets
+- Live chat or WhatsApp support integration
+- Wishlist sharing
+- Loyalty points or rewards
+- Referral system
+
+Admin/operations missing functions
+- Admin user management
+- Customer management page
+- Full order management page beyond recent dashboard orders
+- Product management page
+- Category management page
+- Refund management dashboard
+- Return/exchange management dashboard
+- Audit logs for admin actions
+- Role-based permissions beyond simple admin/customer
+- Sales reports export
+- Customer reports export
+- Inventory reports export
+
+Marketing/analytics missing functions
+- Abandoned cart recovery
+- Promotional banners management
+- Newsletter signup
+- Campaign tracking
+- Best-seller analytics
+- Conversion analytics
+- Traffic analytics
+- Search analytics
+- Product performance analytics
+
+Legal/content missing functions
+- Privacy policy page
+- Terms and conditions page
+- Refund/return policy page
+- Shipping policy page
+- Contact us page
+- About us page
+- FAQ page
+- Sitemap
+- Robots.txt
+
+
+SUMMARY
+
+The platform already has the core ecommerce flow:
+catalog, product detail, login, cart, wishlist, checkout, COD, Razorpay payment,
+orders, cancellation, refunds, stock handling, and an admin dashboard.
+
+The biggest missing areas are:
+product variants, real admin product/category management UI, real image upload,
+shipping/tracking integration, coupons, notifications, invoices, reviews,
+password reset, Razorpay webhooks, and return/exchange management.

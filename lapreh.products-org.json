@@ -1,0 +1,1556 @@
+[{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a80"
+  },
+  "name": "Pure cotton all over printed suit - ice blue colour",
+  "productId": "LP7055007",
+  "productCode": "101-G",
+  "description": "Pure cotton all-over printed suit with embroidery lines on the shirt, a heavy lace border on the ghera, matching printed bottoms, a full-size printed dupatta, and optional extra laces. Suit material: 5 metres. Dupatta: 2.40 metres.",
+  "price": 2200,
+  "originalPrice": 2600,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 1,
+  "stock": 4,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a76"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T04:40:16.056Z"
+  },
+  "images": [
+    "101A.jpeg",
+    "101B.jpeg",
+    "101D.jpeg",
+    "101E.jpeg",
+    "101F.jpeg"
+  ],
+  "videos": [
+    "101C.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a81"
+  },
+  "name": "Pure cotton all over printed suit - pink colour",
+  "productId": "LP7055007",
+  "productCode": "102-F",
+  "description": "Pure cotton all-over printed suit with embroidery lines on the shirt, a heavy lace border on the ghera, matching printed bottoms, a full-size printed dupatta, and optional extra laces. Suit material: 5 metres. Dupatta: 2.40 metres.",
+  "price": 2200,
+  "originalPrice": 2600,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 2,
+  "stock": 9,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a76"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T04:40:16.058Z"
+  },
+  "images": [
+    "102A.jpeg",
+    "102B.jpeg",
+    "102C.jpeg",
+    "102D.jpeg",
+    "102F.jpeg"
+  ],
+  "videos": [
+    "102E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a82"
+  },
+  "name": "Pure cotton all over printed suit - green colour",
+  "productId": "LP7055007",
+  "productCode": "103-D",
+  "description": "Pure cotton all-over printed suit with embroidery lines on the shirt, a heavy lace border on the ghera, matching printed bottoms, a full-size printed dupatta, and optional extra laces. Suit material: 5 metres. Dupatta: 2.40 metres.",
+  "price": 2200,
+  "originalPrice": 2600,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 3,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a76"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "103A.jpeg",
+    "103B.jpeg",
+    "103D.png"
+  ],
+  "videos": [
+    "103C.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a83"
+  },
+  "name": "Pure cotton 3pc suit",
+  "productId": "LP7085007",
+  "productCode": "105-C",
+  "description": "Pure cotton three-piece suit with lace on the neck, empire kali, ghera, and dupatta, paired with tone-to-tone pure cotton bottoms and a full-size lace-finished cotton dupatta.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 3,
+  "sortOrder": 4,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "105A.jpeg",
+    "105B.jpeg"
+  ],
+  "videos": [
+    "105C.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a84"
+  },
+  "name": "Pure cotton 3pc suit",
+  "productId": "LP7085007",
+  "productCode": "106-G",
+  "description": "Pure cotton three-piece suit with lace on the neck, empire kali, ghera, and dupatta, paired with tone-to-tone pure cotton bottoms and a full-size lace-finished cotton dupatta.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 5,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "106A.jpeg",
+    "106B.jpeg",
+    "106D.jpeg",
+    "106E.jpeg",
+    "106F.jpeg",
+    "106G.jpeg"
+  ],
+  "videos": [
+    "106C.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a85"
+  },
+  "name": "Pure cotton 3pc suit",
+  "productId": "LP7085007",
+  "productCode": "104-D",
+  "description": "Pure cotton three-piece suit with lace on the neck, empire kali, ghera, and dupatta, paired with tone-to-tone pure cotton bottoms and a full-size lace-finished cotton dupatta.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 6,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "104A.jpeg",
+    "104B.jpeg",
+    "104C.png",
+    "104D.png"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a86"
+  },
+  "name": "Pure cotton 3pc suit",
+  "productId": "LP7085007",
+  "productCode": "107-D",
+  "description": "Pure cotton three-piece suit with lace on the neck, empire kali, ghera, and dupatta, paired with tone-to-tone pure cotton bottoms and a full-size lace-finished cotton dupatta.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 7,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "107A.jpeg",
+    "107B.jpeg",
+    "107D.png"
+  ],
+  "videos": [
+    "107C.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a87"
+  },
+  "name": "Pure handloom cotton suit - Indigo & white colour",
+  "productId": "LP7115007",
+  "productCode": "108-G",
+  "description": "Pure handloom cotton designer suit with a printed front and back, embroidery on the neck, princess kali, and shirt hemline, indigo cotton bottoms, and a full-size brush-painted mul cotton dupatta.",
+  "price": 3825,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 8,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a78"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "108A.jpeg",
+    "108B.jpeg",
+    "108C.jpeg",
+    "108E.png",
+    "108F.png",
+    "108G.png"
+  ],
+  "videos": [
+    "108D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a88"
+  },
+  "name": "Pure cotton designer suit - black & pink colour",
+  "productId": "LP115007",
+  "productCode": "109-F",
+  "description": "Pure cotton designer suit with a printed front and back, lace work on the shirt, printed pure cotton bottoms, and a full-size printed cotton dupatta.",
+  "price": 3400,
+  "originalPrice": 4000,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 9,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "109A.jpeg",
+    "109B.jpeg",
+    "109C.jpeg",
+    "109D.png",
+    "109E.png",
+    "109F.png"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a89"
+  },
+  "name": "Lucknowi suit - pure tissue heavy - wedding series",
+  "productId": "LP265007",
+  "productCode": "110-E",
+  "description": "Heavy Lucknowi wedding-series suit in pure tissue fabric, with dense embroidery on the shirt and dupatta and tone-to-tone cotton silk bottoms.",
+  "price": 7650,
+  "originalPrice": 9000,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 10,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "110A.jpeg"
+  ],
+  "videos": [
+    "110E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8a"
+  },
+  "name": "Lucknowi suit - pure tissue heavy - wedding series",
+  "productId": "LP265007",
+  "productCode": "111-H",
+  "description": "Heavy Lucknowi wedding-series suit in pure tissue fabric, with dense embroidery on the shirt and dupatta and tone-to-tone cotton silk bottoms.",
+  "price": 7650,
+  "originalPrice": 9000,
+  "discount": 15,
+  "imageCount": 8,
+  "sortOrder": 11,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "111A.jpeg",
+    "111B.jpeg",
+    "111F.png",
+    "111G.png",
+    "111H.png"
+  ],
+  "videos": [
+    "111E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8b"
+  },
+  "name": "Lucknowi suit - pure tissue fabric of shirt & dupatta",
+  "productId": "LP7265007",
+  "productCode": "112-E",
+  "description": "Lucknowi suit in pure tissue fabric with embroidery on the shirt and sleeves, scattered embroidered booties, a dupatta with two embroidered borders, and tone-to-tone cotton silk bottoms.",
+  "price": 6600,
+  "originalPrice": 7800,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 12,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "112A.jpeg",
+    "112B.jpeg"
+  ],
+  "videos": [
+    "112E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8c"
+  },
+  "name": "Lucknowi suit - pure tissue fabric of shirt & dupatta",
+  "productId": "LP7265007",
+  "productCode": "113-D",
+  "description": "Lucknowi suit in pure tissue fabric with embroidery on the shirt and sleeves, scattered embroidered booties, a dupatta with two embroidered borders, and tone-to-tone cotton silk bottoms.",
+  "price": 6600,
+  "originalPrice": 7800,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 13,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "113A.jpeg",
+    "113B.jpeg"
+  ],
+  "videos": [
+    "113E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8d"
+  },
+  "name": "Lucknowi suit - pure tissue fabric of shirt & dupatta",
+  "productId": "LP7265007",
+  "productCode": "114-D",
+  "description": "Lucknowi suit in pure tissue fabric with embroidery on the shirt and sleeves, scattered embroidered booties, a dupatta with two embroidered borders, and tone-to-tone cotton silk bottoms.",
+  "price": 6600,
+  "originalPrice": 7800,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 14,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [],
+  "videos": [
+    "114D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8e"
+  },
+  "name": "Lucknowi suit - pure tissue fabric of shirt & dupatta",
+  "productId": "LP7265007",
+  "productCode": "115-E",
+  "description": "Lucknowi suit in pure tissue fabric with embroidery on the shirt and sleeves, scattered embroidered booties, a dupatta with two embroidered borders, and tone-to-tone cotton silk bottoms.",
+  "price": 6600,
+  "originalPrice": 7800,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 15,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "115A.jpeg",
+    "115B.jpeg"
+  ],
+  "videos": [
+    "115E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a8f"
+  },
+  "name": "Pure cotton designer suit - white colour",
+  "productId": "LP7115007",
+  "productCode": "116-4",
+  "description": "Pure cotton designer suit with an embroidered neckline and shirt front, embroidered pure cotton bottoms, and a full-size embroidered cotton dupatta.",
+  "price": 3600,
+  "originalPrice": 4200,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 16,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "116A.jpeg",
+    "116B.jpeg",
+    "116C.jpeg"
+  ],
+  "videos": [
+    "116D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a90"
+  },
+  "name": "Pure mul chanderi suit - lavender colour",
+  "productId": "LP7115007",
+  "productCode": "117-D",
+  "description": "Pure mul chanderi three-piece suit with all-over embroidery on the shirt and dupatta, heavy patch work on the ghera, tone-to-tone shantoon bottoms, and a full-size embroidered chanderi dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 17,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "117B.jpeg",
+    "117C.jpeg"
+  ],
+  "videos": [
+    "117D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a91"
+  },
+  "name": "Pure mul chanderi suit - olive green colour",
+  "productId": "LP7115007",
+  "productCode": "118-F",
+  "description": "Pure mul chanderi three-piece suit with all-over embroidery on the shirt and dupatta, heavy patch work on the ghera, tone-to-tone shantoon bottoms, and a full-size embroidered chanderi dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 18,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "118A.jpeg",
+    "118B.jpeg",
+    "118C.jpeg",
+    "118E.png",
+    "118F.png"
+  ],
+  "videos": [
+    "118D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a92"
+  },
+  "name": "Pure mul chanderi suit - blue colour",
+  "productId": "LP115007",
+  "productCode": "119-E",
+  "description": "Pure mul chanderi three-piece suit with all-over embroidery on the shirt and dupatta, heavy patch work on the ghera, tone-to-tone shantoon bottoms, and a full-size embroidered chanderi dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 19,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "119A.jpeg",
+    "119B.jpeg",
+    "119C.jpeg"
+  ],
+  "videos": [
+    "119E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a93"
+  },
+  "name": "Pure mul chanderi suit - pink colour",
+  "productId": "LP7115007",
+  "productCode": "120-D",
+  "description": "Pure mul chanderi three-piece suit with all-over embroidery on the shirt and dupatta, heavy patch work on the ghera, tone-to-tone shantoon bottoms, and a full-size embroidered chanderi dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 20,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "120A.jpeg",
+    "120B.jpeg"
+  ],
+  "videos": [
+    "120D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a94"
+  },
+  "name": "Lucknowi suit - light rust colour",
+  "productId": "LP7195007",
+  "productCode": "121-G",
+  "description": "Lucknowi suit in pure mul cotton with hand embroidery on the shirt and dupatta, soft tone-to-tone cotton rayon bottoms, and a full-size hand-embroidered mul cotton dupatta.",
+  "price": 5960,
+  "originalPrice": 7000,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 21,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "121A.jpeg",
+    "121B.jpeg",
+    "121C.jpeg",
+    "121D.png",
+    "121E.png",
+    "121F.png",
+    "121G.png"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a95"
+  },
+  "name": "Pure cotton haqoba chikan in block printing - blue",
+  "productId": "LP7085007",
+  "productCode": "122-E",
+  "description": "Semi-party-wear Lucknowi three-piece suit in pure cotton haqoba chikan with block printing on the front and back, lace work on the shirt, extra sleeve fabric, ivory cotton rayon bottoms, and a full-size block-printed lace-finished cotton dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 22,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "122A.jpeg",
+    "122B.jpeg",
+    "122C.jpeg",
+    "122D.jpeg"
+  ],
+  "videos": [
+    "122E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a96"
+  },
+  "name": "Pure cotton haqoba chikan in block printing - pink",
+  "productId": "LP7085007",
+  "productCode": "123-F",
+  "description": "Semi-party-wear Lucknowi three-piece suit in pure cotton haqoba chikan with block printing on the front and back, lace work on the shirt, extra sleeve fabric, ivory cotton rayon bottoms, and a full-size block-printed lace-finished cotton dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 23,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "123A.jpeg",
+    "123B.jpeg",
+    "123C.jpeg"
+  ],
+  "videos": [
+    "123F.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a97"
+  },
+  "name": "Pure cotton haqoba chikan in block printing - yellow",
+  "productId": "LP7085007",
+  "productCode": "124-F",
+  "description": "Semi-party-wear Lucknowi three-piece suit in pure cotton haqoba chikan with block printing on the front and back, lace work on the shirt, extra sleeve fabric, ivory cotton rayon bottoms, and a full-size block-printed lace-finished cotton dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 24,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a79"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "124A.jpeg",
+    "124B.jpeg",
+    "124C.jpeg"
+  ],
+  "videos": [
+    "124F.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a98"
+  },
+  "name": "Pure muslin digital print - olive green colour",
+  "productId": "LP7135007",
+  "productCode": "125-K",
+  "description": "Semi-party-wear pure muslin digital-print three-piece suit with hand work on the ghera, booties across the shirt, extra sleeve fabric, tone-to-tone shantoon bottoms, and a full-size lace-finished digital-print chiffon dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3600,
+  "originalPrice": 4250,
+  "discount": 15,
+  "imageCount": 11,
+  "sortOrder": 25,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "125A.jpeg",
+    "125B.jpeg",
+    "125C.jpeg",
+    "125D.jpeg",
+    "125H.png",
+    "125I.png",
+    "125J.png",
+    "125K.png"
+  ],
+  "videos": [
+    "125G.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a99"
+  },
+  "name": "Pure muslin digital print - pink colour",
+  "productId": "LP7135007",
+  "productCode": "126-H",
+  "description": "Semi-party-wear pure muslin digital-print three-piece suit with hand work on the ghera, booties across the shirt, extra sleeve fabric, tone-to-tone shantoon bottoms, and a full-size lace-finished digital-print chiffon dupatta. Each piece measures approximately 2.5 metres.",
+  "price": 3600,
+  "originalPrice": 4250,
+  "discount": 15,
+  "imageCount": 8,
+  "sortOrder": 26,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "126A.jpeg",
+    "126B.jpeg",
+    "126F.png",
+    "126G.png",
+    "126H.png"
+  ],
+  "videos": [
+    "126E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9a"
+  },
+  "name": "Pure Maheshwari cotton silk print - blue colour",
+  "productId": "LP7085507",
+  "productCode": "127-J",
+  "description": "Pure Maheshwari cotton silk printed three-piece unstitched suit with extra sleeve fabric and borders, an embroidered T neckline, tone-to-tone cotton rayon bottoms, and a full-size printed Maheshwari dupatta. Suitable for all seasons and semi-party wear.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 10,
+  "sortOrder": 27,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "127A.jpeg",
+    "127B.jpeg",
+    "127C.jpeg",
+    "127F.png",
+    "127G.png",
+    "127H.png",
+    "127I.png",
+    "127J.png"
+  ],
+  "videos": [
+    "127E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9b"
+  },
+  "name": "Pure Maheshwari cotton silk print - gold colour",
+  "productId": "LP7085507",
+  "productCode": "128-G",
+  "description": "Pure Maheshwari cotton silk printed three-piece unstitched suit with extra sleeve fabric and borders, an embroidered T neckline, tone-to-tone cotton rayon bottoms, and a full-size printed Maheshwari dupatta. Suitable for all seasons and semi-party wear.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 28,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "128A.jpeg",
+    "128B.jpeg",
+    "128C.jpeg",
+    "128E.png",
+    "128F.png",
+    "128G.png"
+  ],
+  "videos": [
+    "128D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9c"
+  },
+  "name": "Pure Maheshwari cotton silk print - pink colour",
+  "productId": "LP7085507",
+  "productCode": "129-F",
+  "description": "Pure Maheshwari cotton silk printed three-piece unstitched suit with extra sleeve fabric and borders, an embroidered T neckline, tone-to-tone cotton rayon bottoms, and a full-size printed Maheshwari dupatta. Suitable for all seasons and semi-party wear.",
+  "price": 2700,
+  "originalPrice": 3200,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 29,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "129A.jpeg",
+    "129B.jpeg",
+    "129C.jpeg",
+    "129E.png",
+    "129F.png"
+  ],
+  "videos": [
+    "129D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9d"
+  },
+  "name": "Pure cotton all over printed suit - yellow colour",
+  "productId": "LP7065007",
+  "productCode": "130-G",
+  "description": "Pure cotton all-over printed suit with embroidered booties across the shirt, a heavy embroidered ghera border, matching printed bottoms, and a full-size printed cotton dupatta. Suit material: 5 metres. Dupatta: 2.40 metres.",
+  "price": 2400,
+  "originalPrice": 2850,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 30,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a76"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "130A.jpeg",
+    "130B.jpeg",
+    "130C.jpeg",
+    "130E.png",
+    "130F.png",
+    "130G.png"
+  ],
+  "videos": [
+    "130D.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9e"
+  },
+  "name": "Bengali Art 3pc unstitched Jamdani suit",
+  "productId": "LP7265007",
+  "productCode": "131-I",
+  "description": "Bengali Art three-piece unstitched Jamdani suit in pure mul cotton, with hand weaving on the shirt and dupatta, extra hand-woven sleeve fabric, tone-to-tone cotton bottoms, and a full-size hand-woven dupatta. Shirt: 3 metres; bottoms: 2.5 metres; dupatta: 2.5+ metres.",
+  "price": 6400,
+  "originalPrice": 7500,
+  "discount": 15,
+  "imageCount": 9,
+  "sortOrder": 31,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7d"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "131A.jpeg",
+    "131B.jpeg",
+    "131C.jpeg",
+    "131D.png",
+    "131E.png",
+    "131F.png",
+    "131G.png",
+    "131H.png",
+    "131I.png"
+  ],
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616a9f"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit",
+  "productId": "LP7125507",
+  "productCode": "132-E",
+  "description": "Pure mul cotton three-piece unstitched suit with block and digital printing on the front and back, hand work on the shirt, extra sleeve fabric, soft ivory khadi cotton bottoms, and a full-size block-and-digital printed lace-finished mul cotton dupatta.",
+  "price": 4700,
+  "originalPrice": 5500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 32,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "132A.jpeg",
+    "132B.jpeg",
+    "132C.jpeg"
+  ],
+  "videos": [
+    "132E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa0"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit",
+  "productId": "LP7125507",
+  "productCode": "133-E",
+  "description": "Pure mul cotton three-piece unstitched suit with block and digital printing on the front and back, hand work on the shirt, extra sleeve fabric, soft ivory khadi cotton bottoms, and a full-size block-and-digital printed lace-finished mul cotton dupatta.",
+  "price": 4700,
+  "originalPrice": 5500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 33,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "133A.jpeg",
+    "133B.jpeg",
+    "133C.jpeg"
+  ],
+  "videos": [
+    "133E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa1"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit",
+  "productId": "LP7125507",
+  "productCode": "134-E",
+  "description": "Pure mul cotton three-piece unstitched suit with block and digital printing on the front and back, hand work on the shirt, extra sleeve fabric, soft ivory khadi cotton bottoms, and a full-size block-and-digital printed lace-finished mul cotton dupatta.",
+  "price": 4700,
+  "originalPrice": 5500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 34,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "134A.jpeg",
+    "134B.jpeg",
+    "134C.jpeg"
+  ],
+  "videos": [
+    "134E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa2"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit",
+  "productId": "LP7125507",
+  "productCode": "135-E",
+  "description": "Pure mul cotton three-piece unstitched suit with block and digital printing on the front and back, hand work on the shirt, extra sleeve fabric, soft ivory khadi cotton bottoms, and a full-size block-and-digital printed lace-finished mul cotton dupatta.",
+  "price": 4700,
+  "originalPrice": 5500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 35,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "135A.jpeg",
+    "135B.jpeg",
+    "135C.jpeg"
+  ],
+  "videos": [
+    "135E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa3"
+  },
+  "name": "Pure linen cotton 3pc unstitched suit",
+  "productId": "LP7085007",
+  "productCode": "136-E",
+  "description": "Pure linen cotton three-piece unstitched suit with digital printing on the front and back, hand work on the shirt, extra sleeve fabric, black satin rayon bottoms, and a full-size digital-print lace-finished linen cotton dupatta.",
+  "price": 3600,
+  "originalPrice": 4250,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 36,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "136A.jpeg",
+    "136B.jpeg",
+    "136C.jpeg"
+  ],
+  "videos": [
+    "136E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa4"
+  },
+  "name": "Pure linen cotton 3pc unstitched suit",
+  "productId": "LP7085007",
+  "productCode": "137-F",
+  "description": "Pure linen cotton three-piece unstitched suit with digital printing on the front and back, hand work on the shirt, extra sleeve fabric, black satin rayon bottoms, and a full-size digital-print lace-finished linen cotton dupatta.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 37,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "137A.jpeg",
+    "137B.jpeg",
+    "137C.jpeg",
+    "137D.jpeg"
+  ],
+  "videos": [
+    "137F.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa5"
+  },
+  "name": "Pure cotton 3pc unstitched suit - powder pink",
+  "productId": "LP7105007",
+  "productCode": "138-I",
+  "description": "Pure cotton three-piece unstitched suit with lace work and brush-paint printing on the shirt, dupatta, and sleeves, tone-to-tone cotton bottoms, and a full-size lace-finished brush-painted dupatta.",
+  "price": 3300,
+  "originalPrice": 3900,
+  "discount": 15,
+  "imageCount": 9,
+  "sortOrder": 38,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "138A.jpeg",
+    "138B.jpeg",
+    "138C.jpeg",
+    "138F.png",
+    "138G.png",
+    "138H.png",
+    "138I.png"
+  ],
+  "videos": [
+    "138E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa6"
+  },
+  "name": "Pure cotton 3pc unstitched suit - pista green",
+  "productId": "LP7105007",
+  "productCode": "139-E",
+  "description": "Pure cotton three-piece unstitched suit with lace work and brush-paint printing on the shirt, dupatta, and sleeves, tone-to-tone cotton bottoms, and a full-size lace-finished brush-painted dupatta.",
+  "price": 3300,
+  "originalPrice": 3900,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 39,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "139A.jpeg",
+    "139B.jpeg",
+    "139C.jpeg"
+  ],
+  "videos": [
+    "139E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa7"
+  },
+  "name": "Pure cotton 3pc unstitched suit - beige colour",
+  "productId": "LP7105007",
+  "productCode": "140-G",
+  "description": "Pure cotton three-piece unstitched suit with lace work and brush-paint printing on the shirt, dupatta, and sleeves, tone-to-tone cotton bottoms, and a full-size lace-finished brush-painted dupatta.",
+  "price": 3300,
+  "originalPrice": 3900,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 40,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.794Z"
+  },
+  "images": [
+    "140A.jpeg",
+    "140B.jpeg",
+    "140C.jpeg",
+    "140F.png",
+    "140G.png"
+  ],
+  "videos": [
+    "140E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa8"
+  },
+  "name": "Pure cotton 3pc unstitched suit - grey colour",
+  "productId": "LP7105007",
+  "productCode": "141-F",
+  "description": "Pure cotton three-piece unstitched suit with lace work and brush-paint printing on the shirt, dupatta, and sleeves, tone-to-tone cotton bottoms, and a full-size lace-finished brush-painted dupatta.",
+  "price": 3300,
+  "originalPrice": 3900,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 41,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a77"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "141A.jpeg",
+    "141B.jpeg",
+    "141C.jpeg",
+    "141F.png"
+  ],
+  "videos": [
+    "141E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aa9"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit - white & blue",
+  "productId": "LP7105007",
+  "productCode": "142-E",
+  "description": "Pure mul cotton three-piece unstitched suit with a block-printed front and back, shirt embroidery, extra sleeve fabric, white cotton bottoms, and a full-size block-printed dupatta finished with heavy lace on all four sides.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 42,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "142A.jpeg",
+    "142B.jpeg",
+    "142C.jpeg"
+  ],
+  "videos": [
+    "142E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aaa"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit - white & purple",
+  "productId": "LP7105007",
+  "productCode": "143-E",
+  "description": "Pure mul cotton three-piece unstitched suit with a block-printed front and back, shirt embroidery, extra sleeve fabric, white cotton bottoms, and a full-size block-printed dupatta finished with heavy lace on all four sides.",
+  "price": 3800,
+  "originalPrice": 4500,
+  "discount": 15,
+  "imageCount": 5,
+  "sortOrder": 43,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "143A.jpeg",
+    "143B.jpeg",
+    "143C.jpeg"
+  ],
+  "videos": [
+    "143E.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aab"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit - multi/fuchsia pink",
+  "productId": "LP7115007",
+  "productCode": "144-F",
+  "description": "Pure mul cotton three-piece unstitched suit with a printed shirt, heavy lace work, extra sleeve fabric, contrast green cotton bottoms, and a full-size brush-painted finished cotton dupatta.",
+  "price": 3700,
+  "originalPrice": 4400,
+  "discount": 15,
+  "imageCount": 6,
+  "sortOrder": 44,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "144A.jpeg",
+    "144B.jpeg",
+    "144C.jpeg",
+    "144D.jpeg"
+  ],
+  "videos": [
+    "144F.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aac"
+  },
+  "name": "Pure mul cotton 3pc unstitched suit - blue/green",
+  "productId": "LP7115007",
+  "productCode": "145-G",
+  "description": "Pure mul cotton three-piece unstitched suit with a printed shirt, heavy lace work, extra sleeve fabric, contrast green cotton bottoms, and a full-size brush-painted finished cotton dupatta.",
+  "price": 3700,
+  "originalPrice": 4400,
+  "discount": 15,
+  "imageCount": 7,
+  "sortOrder": 45,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "145A.jpeg",
+    "145B.jpeg",
+    "145C.jpeg"
+  ],
+  "videos": [
+    "145G.mp4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a326ed2c02bc63112616aad"
+  },
+  "name": "Bengali Art 3pc unstitched suit - pure mul chanderi",
+  "productId": "LP7125007",
+  "productCode": "146-D",
+  "description": "Bengali Art three-piece unstitched suit in pure mul chanderi with hand weaving on the shirt and dupatta, extra embroidered sleeve fabric, tone-to-tone cotton bottoms, and a full-size hand-woven chanderi dupatta.",
+  "price": 3300,
+  "originalPrice": 3900,
+  "discount": 15,
+  "imageCount": 4,
+  "sortOrder": 46,
+  "stock": 10,
+  "category": {
+    "$oid": "6a326ed2c02bc63112616a7d"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T09:54:26.795Z"
+  },
+  "images": [
+    "146A.jpeg",
+    "146B.jpeg",
+    "146C.jpeg"
+  ],
+  "videos": [
+    "146D.mp4"
+  ]
+}]

@@ -1,0 +1,72 @@
+MANDATORY ECOMMERCE FUNCTIONS MISSING
+
+These are the functions that are really important for making the platform usable as a proper ecommerce website.
+
+1. Admin product management UI
+- Admin should be able to add, edit, delete, and manage products from the website.
+- This should include product name, price, stock, category, images, description, and status.
+
+2. Real product image upload
+- Current upload route is only a placeholder.
+- The platform needs real image upload and storage for product photos.
+
+3. Product variants
+- Products should support size, color, fabric, or other options.
+- Stock should ideally be managed per variant/SKU.
+
+4. Razorpay webhook support
+- Payment verification currently depends mainly on frontend flow.
+- Razorpay webhooks are needed to confirm payments reliably even if the customer closes the browser or the frontend fails.
+
+5. Shipping and tracking
+- Admin should be able to add courier name, tracking number, and shipping status.
+- Customers should be able to see tracking details on their order page.
+
+6. Invoice or bill generation
+- Customers should be able to view or download an invoice for their order.
+- This is important for trust, records, and accounting.
+
+7. Password reset
+- Users need a forgot password / reset password function.
+- Without this, customers can get locked out of their accounts.
+
+8. Legal and policy pages
+- Privacy Policy
+- Terms and Conditions
+- Shipping Policy
+- Cancellation / Refund / Return Policy
+- These are important for trust and legal clarity.
+
+9. Return or exchange handling
+- If returns/exchanges are allowed, the platform needs a request and approval flow.
+- If returns/exchanges are not allowed, the policy should be clearly shown and enforced.
+
+10. Order notifications
+- Customers should receive updates for:
+  - Order placed
+  - Payment successful or failed
+  - Order shipped
+  - Order delivered
+  - Order cancelled
+  - Refund initiated or processed
+- Notifications can be email, SMS, or WhatsApp.
+
+
+MOST IMPORTANT TO BUILD FIRST
+
+1. Admin product management UI
+2. Real product image upload
+3. Product variants
+4. Shipping and tracking
+5. Razorpay webhooks
+6. Invoice generation
+7. Password reset
+8. Legal/policy pages
+
+
+1. Admin product management UI
+2. Real product image upload
+3. Product variants
+4. Shipping and tracking
+5. Invoice generation 
+6. Password reset
