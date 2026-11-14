@@ -16,6 +16,13 @@ Connect the phone and computer to the same Wi-Fi network, run `ipconfig`, and
 open `http://<computer-ip>:5173` on the phone. The frontend automatically sends
 API requests to `http://<computer-ip>:3000`.
 
+## Production API
+
+The production build uses `https://lapreh.onrender.com/api` as its API base.
+Callers append endpoint paths such as `/products` and `/auth/login`; do not
+include `/api` in those paths. For local development, `VITE_API_URL` remains
+`/api` and Vite proxies it to the backend.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
