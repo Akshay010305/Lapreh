@@ -7,6 +7,9 @@ Simple Express + MongoDB ecommerce API.
 Copy `.env.example` to `.env` and configure MongoDB, JWT, and Razorpay credentials.
 Razorpay orders are created on the server and successful Checkout responses are
 verified with an HMAC-SHA256 signature before an order is marked paid.
+Set `CLIENT_URL` in Render to the deployed frontend origin
+(`https://lapreh.vercel.app`). That production origin is also explicitly
+allowlisted in the backend; local development origins remain allowed.
 
 API requests are rate limited in memory by client IP. The defaults allow 300
 requests per 15 minutes across `/api` and 20 authentication attempts per 15
