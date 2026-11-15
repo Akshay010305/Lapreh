@@ -13,10 +13,16 @@ allowlisted in the backend; local development origins remain allowed.
 
 Account verification email can use Resend's HTTPS API by setting `RESEND_API_KEY`
 and `MAIL_FROM` in the backend environment. Verify the sender domain with Resend
-before using it. This is recommended for Render services because it avoids SMTP
-ports. For local development, Nodemailer SMTP remains available with
-`SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, and `SMTP_PASS` when `RESEND_API_KEY` is
-not set. The Resend API path requires Node.js 18 or newer.
+before using it. Alternatively, Gmail API sending uses `GMAIL_CLIENT_ID`,
+`GMAIL_CLIENT_SECRET`, `GMAIL_REFRESH_TOKEN`, and `GMAIL_USER`; the last value is
+the authorized Gmail sender address. Resend takes precedence if both providers
+are configured. Nodemailer SMTP (`SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, and
+`SMTP_PASS`) remains available when neither API provider is configured.
+
+For Render, use Resend or Gmail API rather than SMTP. Keep OAuth credentials and
+refresh tokens in the backend environment, never in the frontend or source
+control. Gmail API access requires the `gmail.send` OAuth scope and an authorized
+refresh token.
 
 API requests are rate limited in memory by client IP. The defaults allow 300
 requests per 15 minutes across `/api` and 20 authentication attempts per 15

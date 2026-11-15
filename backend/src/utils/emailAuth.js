@@ -1,4 +1,5 @@
 const nodemailer = require("nodemailer");
+const { google } = require("googleapis");
 
 const normalizeEmail = (value = "") => value.trim().toLowerCase();
 
@@ -24,6 +25,19 @@ const buildVerificationEmail = (name, code, minutes = 10) => {
   `;
 
   return { subject, text, html };
+};
+
+const buildGmailRawMessage = async ({ from, to, subject, text, html }) => {
+  const { message } = await nodemailer.createTransport({
+    streamTransport: true,
+    buffer: true,
+  }).sendMail({ from, to, subject, text, html });
+
+  return message
+    .toString("base64")
+    .replace(/\+/g, "-")
+    .replace(/\//g, "_")
+    .replace(/=+$/, "");
 };
 
 const sendVerificationEmail = async ({ to, name, code, minutes = 10 }) => {
@@ -54,6 +68,40 @@ const sendVerificationEmail = async ({ to, name, code, minutes = 10 }) => {
       throw new Error(`Resend API request failed (${response.status}): ${details}`);
     }
 
+    return;
+  }
+
+  const gmailConfig = {
+    clientId: process.env.GMAIL_CLIENT_ID?.trim(),
+    clientSecret: process.env.GMAIL_CLIENT_SECRET?.trim(),
+    refreshToken: process.env.GMAIL_REFRESH_TOKEN?.trim(),
+    user: process.env.GMAIL_USER?.trim(),
+  };
+  const hasGmailConfig = Object.values(gmailConfig).some(Boolean);
+
+  if (hasGmailConfig) {
+    const missing = Object.entries(gmailConfig)
+      .filter(([, value]) => !value)
+      .map(([key]) => key);
+    if (missing.length) {
+      throw new Error(`Gmail API configuration is incomplete. Missing: ${missing.join(", ")}.`);
+    }
+
+    const auth = new google.auth.OAuth2(gmailConfig.clientId, gmailConfig.clientSecret);
+    auth.setCredentials({ refresh_token: gmailConfig.refreshToken });
+    const gmail = google.gmail({ version: "v1", auth });
+    await gmail.users.messages.send({
+      userId: "me",
+      requestBody: {
+        raw: await buildGmailRawMessage({
+          from: gmailConfig.user,
+          to,
+          subject,
+          text,
+          html,
+        }),
+      },
+    });
     return;
   }
 
@@ -88,6 +136,7 @@ const sendVerificationEmail = async ({ to, name, code, minutes = 10 }) => {
 };
 
 module.exports = {
+  buildGmailRawMessage,
   buildVerificationEmail,
   generateVerificationCode,
   normalizeEmail,
