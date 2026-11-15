@@ -27,6 +27,36 @@ const buildVerificationEmail = (name, code, minutes = 10) => {
 };
 
 const sendVerificationEmail = async ({ to, name, code, minutes = 10 }) => {
+  const resendApiKey = process.env.RESEND_API_KEY?.trim();
+  const { subject, text, html } = buildVerificationEmail(name, code, minutes);
+
+  if (resendApiKey) {
+    const from = process.env.MAIL_FROM?.trim();
+    if (!from) {
+      throw new Error("MAIL_FROM must be set to a verified sender when using Resend.");
+    }
+
+    if (typeof fetch !== "function") {
+      throw new Error("The Resend email API requires Node.js 18 or newer.");
+    }
+
+    const response = await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${resendApiKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ from, to, subject, text, html }),
+    });
+
+    if (!response.ok) {
+      const details = (await response.text()).slice(0, 500);
+      throw new Error(`Resend API request failed (${response.status}): ${details}`);
+    }
+
+    return;
+  }
+
   const smtpHost = process.env.SMTP_HOST?.trim();
   const smtpPort = Number(process.env.SMTP_PORT || 587);
   const smtpUser = process.env.SMTP_USER?.trim();
@@ -47,8 +77,6 @@ const sendVerificationEmail = async ({ to, name, code, minutes = 10 }) => {
       pass: smtpPass,
     },
   });
-
-  const { subject, text, html } = buildVerificationEmail(name, code, minutes);
 
   await transport.sendMail({
     from: process.env.MAIL_FROM || smtpUser,
